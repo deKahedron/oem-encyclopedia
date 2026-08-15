@@ -9,7 +9,7 @@ import { Infobox } from "./quartz/plugins/transformers/infobox"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Oem Wiki",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
