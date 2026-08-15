@@ -1,0 +1,3 @@
+The Water Dancer (known in [[Elvish]] as *Alma'rak*) is the [[Elf#High Elf|high elf]] demigod of the duel and champion of the [[Raincage]]. It is said that his technique is so beautiful that his opponents can rarely even bring themselves to fight back, lest they risk interrupting his majestic lethality.
+
+The current Water Dancer fights with a magical rapier that traces a shimmering silver trail from its tip, which turns golden for a second after every successful strike at its opponent.

@@ -1,0 +1,1 @@
+Bloodquill (known in [[Elvish]] as *Rishaldam*) is the [[Elf#High Elf|high elf]] demigod of writing and calligraphy and the guardian of the [[Cold Archive]]. From head to toe, all his skin is scrawled with the history of [[Elf|elvish]] culture, narrated in exquisite prose.

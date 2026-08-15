@@ -1,0 +1,3 @@
+Alti is a goddess of music and writing in the [[Sophism|sophic]] pantheon. Also know as the Glib Goat, she is said to have invented music by swinging the bell on her neck. When mortals threw stones at her because her chiming and bleating was too loud and annoying, she invented language to insult them back.
+
+Alti is the matron goddess of bards, troubadours and fools, as well as scribes; in [[Gnome|gnomish tradition]], these jobs were often one and the same. The goat’s head (with its tongue out), the silver bell and the archaic spelling of her name are all used in different contexts as symbols of the goddess.

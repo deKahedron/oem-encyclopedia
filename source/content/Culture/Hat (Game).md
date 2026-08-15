@@ -1,0 +1,3 @@
+Hat is a storytelling game invented by the [[Stormrider Gang]]. To play, the players must sit in a circle. One player begins by telling a story about themselves and then passing a hat or other item to another player and asking them a question. That player must then answer the question with a story of their own before passing the hat to another player of their choosing and asking a question of their own.
+
+The original hat that inspired the game belonged to [[Amos]], a bandit known for his tall tales.

@@ -1,0 +1,5 @@
+Primordial is a [[Languages|language]] used mostly by [[Druid|druids]] and [[Elemental|elementals]]. Unlike most languages, Primordial was not invented and evolved by any mortal culture. More so it was discovered as the druids and elemental monsters developed the ability to ask the natural elements their [[True Name|true names]].
+
+In the modern day, there exists a simplified version of Primordial, which can be written and spoken using [[Rune|runes]] and phonetics borrowed from [[Giant (Language)|Giant]]. 
+
+The four main dialects of Primordial ([[Aquan]], [[Auran]], [[Ignan]] and [[Terran]]) share the same syntax and grammar, but express their ideas through different mediums. Over the millennia, these four dialects have diverged significantly. Now, each of them has its own written and spoken version.

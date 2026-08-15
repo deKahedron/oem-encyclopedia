@@ -1,0 +1,3 @@
+Undercommon is a [[Languages|language]] of simple sounds, well suited to allow for clear communication even when whispered (as is so often necessary within the terrifying tunnels of the [[Underdark]]). This property of the language also aids in the communication between the great variety of species that use the language.
+
+Written Undercommon is a tactile language, like *Braille*, so that it can be read even in total darkness.

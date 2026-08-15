@@ -1,0 +1,2 @@
+Giant is the ancient [[Rune|runic]] [[Languages|language]] of [[Giant#Ostoria|Ostoria]] and the [[Giant|giants]]. Due to the importance of silence as a sign of respect in giant culture, their language is very concise, designed more for writing than for speech.
+The modern languages that descend from Giant inherit mostly through written means only, having very little relation to spoken Giant.

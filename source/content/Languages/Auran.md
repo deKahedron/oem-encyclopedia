@@ -1,0 +1,1 @@
+Auran is a dialect of [[Primordial]]. It was originally an exclusively spoken [[Languages|language]], used by [[Aarakocra]] and air [[Elemental|elementals]].

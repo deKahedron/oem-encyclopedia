@@ -1,0 +1,1 @@
+Mythian is the most common [[Languages|language]] in [[Hiamyth]]. It is a fusion of the dead [[Human#Shou|Shou]] and [[Human#Damaran|Damaran]] languages (which were dialects of [[Draconic]] and [[Giant (Language)|Giant]] respectively). It inherits the grammar of Giant as well as the long syllables and complex characters of Draconic.

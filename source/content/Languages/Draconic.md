@@ -1,0 +1,4 @@
+Por contraste, el dracónico es principalmente oral. Los dragones en sí tienen muy poco uso para la escritura, pues su longevidad y larga memoria les sirven para persistir la información; y pueden volar más rápido y más lejos que cualquier mensajero alternativo. El dracónico escrito fue inventado por los shou, y está compuesto por caracteres complejos que representan una palabra cada uno, similar al chino moderno.
+Draconic is the [[Languages|language]] of [[Dragon|dragons]], [[Dragonborn|dragonborn]], [[Kobold|kobolds]] and many [[Human#Shou|shou humans]].
+
+Dragons have very little use for writing; their longevity and long memory allows them to retain information for centuries, and they can fly faster than any alternative messenger. Written Draconic was invented later by the shou and is made up of complex characters that each represent an entire word, similar to modern *Chinese*.

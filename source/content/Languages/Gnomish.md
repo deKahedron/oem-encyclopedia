@@ -1,0 +1,1 @@
+Gnomish was the main [[Languages|language]] of [[Nadiria]] and the [[Gnome|gnomes]]. Its influence is still present all across the territories of the [[Umaran Empire]]; many Gnomish loan words appear in [[Dwarvish]], [[Mythian]] and [[Borderspeech]], especially in reference to modern inventions that were distributed by the empire.

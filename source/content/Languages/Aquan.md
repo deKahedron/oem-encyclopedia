@@ -1,0 +1,1 @@
+Aquan is a dialect of [[Primordial]] used by [[Sea Elf|sea elves]], [[Triton|tritons]], [[Merfolk|merfolk]] and water [[Elemental|elementals]]. It is mainly a signed language, though it also has a system of audible communication consisting of very deep frequencies. However, given how far these frequencies travel underwater, these are reserved for alarms and proclamations.

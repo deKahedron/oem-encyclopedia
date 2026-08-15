@@ -1,0 +1,3 @@
+Abyssal is the [[Languages|language]] of [[Demon|demons]] and the [[The Abyss|Abyss]]. It has very little vocabulary and very few grammatical rules, which makes it a very easy language to learn from a purely academic angle. However, speaking the language is hard. Tone has more importance than the actual words spoken, which gives Abyssal a very emotional, almost animalistic character. To speak Abyssal is to force your listeners to understand you on your terms.
+
+Abyssal is also spoken by the [[Yuan-ti]] of the [[Fintazza Jungle]], [[Gnoll|gnolls]], some older [[Minotaur|minotaurs]] and [[Orc|orc]] followers of [[Gruumsh]].

@@ -1,0 +1,3 @@
+Blink Psychosis is a [[Magical Disease|magical disease]] contracted from conjuration magic that causes seizures and fits.
+
+Individuals who have been subject to complications with teleportation magic can sometimes suffer seizures when confronted with situations reminiscent of the moment of the failed transposition. Subjects of the condition have described the experience of these attacks as feeling like they were briefly transported to a hostile plane, where they were unable to move or act. Guided psychiatric help is the most effective remedy for this disease. While no one has been confirmed to have ever fully recovered, this type of help is proven to drastically reduce the frequency of the symptoms.

@@ -1,0 +1,3 @@
+The Fallow is an overgrown fungal farmland near the lost drow city of [[Tara's City]], under the border between [[Fuegil & the Manilands|the Manilands]] and [[Nadiria]]. The air is damp and smells faintly of rot. The corpses of giant sower beetles lie completely smothered by the unharvested mushrooms that grow on their carapaces. [[Lolth|Lolth’s]] spiderwebs fill the gaping hole where the city once stood. Only the vertical fields, tended by [[Drider|driders]] and safe from scavengers, are still fresh.
+
+A community of [[Myconid|myconids]] have taken in the abandoned driders of the city. Together they hold off carrion crawlers, yochlols and vegepygmies.

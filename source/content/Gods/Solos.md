@@ -1,0 +1,3 @@
+In the [[Sophism|sophic]] pantheon, Solos is the god of Navigation. Depicted as an eel, he is the patron god of sailors and travelling merchants. His two mouths speak conflicting truths: the outer can describe any fraught and adventurous journey, with all its unexpected and undesired twists; the inner only ever speaks the destination, unchanging and persistent.
+
+The Winding River and the Nested Mouths are both used as holy symbols of Solos.

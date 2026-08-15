@@ -1,0 +1,3 @@
+Sylvan is the main [[Languages|language]] of the [[Fey (Plane)|Fey]]. Different dialects of Sylvan are spoken by the various descendants of that plane on the [[Material Plane]], such as the [[Elf#Wood Elf|wood elves]] of [[Dûnar]], the [[Elf#Eladrin|eladrin]] [[Mirage-walkers|mirage-walkers]] of the [[Lfaeria Desert|Lfaeria desert]], [[Luruthi]] and [[Firbolg|Firbolgs]].
+The language has many more phonemes than written characters, which makes it a very difficult language for non-native speakers to pronounce correctly.
+Sylvan is also very rich in homophones, which allows for lots of wordplay and double-entendres and lends it great compatibility with [[Bardic Magic|bardic magic]].

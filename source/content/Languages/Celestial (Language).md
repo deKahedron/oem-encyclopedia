@@ -1,0 +1,1 @@
+Celestial is a [[Languages|language]] spoken in the [[Upper Planes]]. To speak Celestial is described as a liberating experience. Once a sentence is begun, it can be hard to end; the very melody of the language drives its speakers to keep talking, expressing unfiltered truth. Lies in Celestial sound discordant, breaking up the flow of dialogue.

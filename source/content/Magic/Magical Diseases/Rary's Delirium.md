@@ -1,0 +1,3 @@
+Rary's Delirium is a [[Magical Disease|magical disease]] that causes the patient to believe they are a fake copy of themselves.
+
+Late in life, the wizard [[Rary]] of the [[Circle of Eight]] became convinced that, following his first teleportation, he had been destroyed and replaced by an exact replica of himself. While no other recorded cases exist, this isolated event does raise intriguing and terrifying questions about the true nature of conjuration magic.

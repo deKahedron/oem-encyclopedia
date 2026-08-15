@@ -1,0 +1,3 @@
+Infernal is the [[Languages|language]] of the [[The Nine Hells|Nine Hells]], [[Hades]] and [[Gehenna]]. It is spoken mostly by the [[Devil|devils]] and [[Yugoloth|yugoloths]] that live in those planes.
+
+Infernal has an immense number of grammatical rules, often complex, interlinked and seemingly contradicting. It is said that Infernal is impossible to speak alone; it is a language of pacts and power dynamics between the speakers. A conversation in Infernal sounds less like an exchange of ideas and more like a verbal thumb war, each speaker battling to define themselves in terms of superiority relative to the others.

@@ -1,0 +1,1 @@
+Acambarine is an alloy invented by the arcane weaponsmiths of [[House Vostok]]. It is a variant of electrum. It is the most precise known [[Magic|magical]] conductor. This property makes it perfect for the creation of complex constructs, as well as other [[Magic Item|magical items]] that require incredibly fine conductive [[Rune|runes]].

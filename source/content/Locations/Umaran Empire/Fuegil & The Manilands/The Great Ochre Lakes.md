@@ -1,0 +1,7 @@
+In the [[Underdark]], north-east of [[Black Harbour]], a long-sealed road has been reopened. Deep beneath the mountains, in pools of still, orange water larger than most cities, strange things now stir. The babbling chants of [[Kuo-Toa|kuo-toa]] grow in fervour as ripples form in the many-tiered surfaces.
+
+The few souls alive who have witnessed the lakes describe reality-defying images: ochre-coloured bodies of water resting placidly on the walls and ceilings, reflecting the light of their torches in the wrong direction; movement beneath the surface that could only be seen from the corner of one’s eye.
+
+Although volatile and aggressive, the [[Grimlock|grimlocks]] that occasionally emerge from the tunnels can be reasoned with and are even willing to trade wholly otherworldly goods in exchange for simple household objects.
+
+Academics and theologians alike have struggled to explain the phenomena in the region. Do the vermillion depths hide an ancient gate to the [[Far Realm]]? Has a colony of [[Slaad|slaadi]] turned the waters into their own spawning ground? Did all the other horrors arise from the twisted desires of the kuo-toa? Or do the chuul shells that occasionally surface nearby indicate the presence of a single ruling aboleth?

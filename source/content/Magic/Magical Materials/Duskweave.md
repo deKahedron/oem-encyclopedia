@@ -1,0 +1,3 @@
+Duskweave is a [[Magical Materials|magical]] textile that dampens incoming [[Magic|magical effects]] by diverting *[[Rusakov Particles|sraf]]* particles. It is silky-smooth and silver-coloured.
+
+Dusk threads are made by boiling the chrysalises of lunar [[Luruthi|luruthi]]. They can be created from abandoned cocoons, but this produces less material of a usable quality. More bountiful yields are produced by boiling fresh cocoons, with the luruthi still inside. Poachers will hunt luruthi villages to raid their cocoon trees.

@@ -1,0 +1,2 @@
+Borderspeech is a chimeric [[Languages|language]], formed from the myriad of different tongues and dialects of the [[Fuegil & the Manilands|Manilands]]. It sounds a little like modern *English*. The grammar is very irregular, with more exceptions than rules and an extreme richness of synonyms.
+This allows its varied speakers, with their miscellaneous anatomies, to express the same concepts with a mutual understanding.

@@ -1,0 +1,3 @@
+Dwarvish is the [[Languages|language]] of the [[Dwarf|Dwarves]] and the most spoken tongue in [[Dûnar]]. Dwarvish script is made up of [[Rune|runes]], each of which corresponds to a single syllable. Dwarvish words are always two-syllabled and oxytone, with the exception of proper nouns, which are penultimately stressed. This gives spoken Dwarvish a very constant, rhythmic cadence.
+
+The language is entirely gender-neutral.

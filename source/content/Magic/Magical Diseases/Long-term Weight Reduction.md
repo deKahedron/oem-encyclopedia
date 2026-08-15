@@ -1,0 +1,3 @@
+Long-term Weight Reduction is a [[Magical Disease|magical disease]] that causes a patient to float for an extended period of time.
+
+When experimenting with graviturgic dunamancy or transmutative flight spells, it is not uncommon for some of the effects to stay for much longer than intended. This reduction in weight (usually not mass) has no immediate negative effects on its own, but over time, if disregarded, can lead to degrading of the leg muscles. So long as additional exercise is performed for the duration, patients are encouraged to enjoy their weightlessness for as long as it lasts.

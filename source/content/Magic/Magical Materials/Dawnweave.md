@@ -1,0 +1,3 @@
+Dawnweave is a [[Magical Materials|magical]] textile that empowers magic by attracting *[[Rusakov Particles|sraf]]* particles. It is rough and golden-coloured.
+
+Dawn threads are made by boiling the chrysalises of solar [[Luruthi|luruthi]]. They can be created from abandoned cocoons, but this produces less material of a usable quality. More bountiful yields are produced by boiling fresh cocoons, with the luruthi still inside. Poachers will hunt luruthi villages to raid their cocoon trees.

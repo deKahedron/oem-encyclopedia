@@ -1,0 +1,3 @@
+The eight-hundred giant bees of the Milil Hive are gods of creativity, craft and construction in the [[Sophism|sophic]] pantheon. Each of them is said to produce a different material from pollinating the minds of every mortal that works said material. Like the work of the divine bees, art, in [[Gnome|gnomish culture]], is a social and communal affair.
+
+Their symbols are a honeybee and a three-celled piece of honeycomb.

@@ -1,0 +1,3 @@
+Diamond Eyes (known in [[Elvish]] as *Alaeynalmas*) is the [[Elf#High Elf|high elf]] demigod of painting. From atop the [[Easel of Sand]], she has the uncanny to see all that is can be seen by anyone else within the [[Lfaeria Desert]], whether it be real or liminal. She spends her days sheltered within her tower, rendering mirages in beautiful colour and composition.
+
+The current Diamond Eyes is Salma Um-wettikh.

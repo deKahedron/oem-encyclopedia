@@ -1,0 +1,2 @@
+Elvish is the [[Languages|language]] of the [[Elf#High Elf|high elves]]and is the most spoken language in [[Alheuffikh]] and [[Arcaxius]]. It has many similarities with modern *Arabic*: it is written from right to left and the vowels are written as accents above and below the consonants.
+The accentuation of each word is not fixed and can be altered to communicate different inflexions. This ability to transmit objective information in a way that strongly reflects intent makes it very well-suited for the verbal components of arcane magic.

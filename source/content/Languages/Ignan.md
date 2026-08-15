@@ -1,0 +1,3 @@
+Ignan is a dialect of [[Primordial]]. It was originally a language of light, communicated via the delicate control of live flames. A version of the [[Languages|language]] based on body signs was created for interpreters and practitioners who lacked the ability to control fire.
+A conversation in Ignan, whether using flames or signs, looks like a dance.
+Ignan is used mostly by fire [[Elemental|elementals]] and [[Azer|azers]].

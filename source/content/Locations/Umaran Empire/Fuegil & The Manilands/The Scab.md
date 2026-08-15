@@ -1,0 +1,1 @@
+The Scab is a region in the southern [[Fuegil & the Manilands|Manilands]], between the [[The Culvert|Culvert]] and the [[The Thrice-Trod Line|Thrice-Trod Line]]. The land is dry and cracked, forming several-metre-wide plates and shallow ravines between them.

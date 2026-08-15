@@ -1,0 +1,3 @@
+Post-polymorphic Lymbic Dissociation is a [[Magical Disease|magical disease]] that causes unpredictable behaviour in the patient's involuntary functions.
+
+Excessive transformations into other creatures can leave lasting effects on the brain, which in old ages can lead to the brain operating its own organs incorrectly, as vestigial instincts of other creatures are mistaken for normal functions of the body. These symptoms range from trying to breathe through gills that aren't there to the heart beating at the rate of the wrong species.

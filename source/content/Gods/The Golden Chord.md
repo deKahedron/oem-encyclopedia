@@ -1,0 +1,1 @@
+The Golden Chord (known in [[Elvish]] as *Aluatr*) is the [[Elf#High Elf|high elf]] demigod of music and song. She resides in the [[Plaza of Voices]] in [[Rhyza]], where her melodies underscore and harmonize with every conversation and thought that occurs in the city.

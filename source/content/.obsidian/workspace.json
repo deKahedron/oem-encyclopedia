@@ -1,62 +1,131 @@
 {
   "main": {
-    "id": "2e9225e34664efd4",
+    "id": "e382c6799048a96a",
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "7980c9a56698e763",
         "type": "tabs",
+        "dimension": 71.28482972136223,
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "c9d25b70823cf319",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Welcome to Oem.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Welcome to Oem"
             }
           },
           {
-            "id": "2d8837e6263008e3",
+            "id": "1e01f906f1e65239",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "Gods/Ta'ux.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Ta'ux"
+            }
+          },
+          {
+            "id": "40e72141cbb96022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Miscellaneous/Ostorian Calendar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ostorian Calendar"
+            }
+          },
+          {
+            "id": "b1ee1cea2bc3dc71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Species/Dragon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dragon"
+            }
+          },
+          {
+            "id": "6ccf3d45f475163e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/Age of Titans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Age of Titans"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "585a2187804745df",
+        "type": "tabs",
+        "dimension": 28.71517027863777,
+        "children": [
+          {
+            "id": "c3bced42ecb4b721",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1243752a4df710bb",
+    "id": "53b404fda18f558f",
     "type": "split",
     "children": [
       {
-        "id": "8a4c81639dc8783e",
+        "id": "a6c4cac772deb738",
         "type": "tabs",
         "children": [
           {
-            "id": "b77831b90dd9f87b",
+            "id": "06241ed2624a9ad3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "0829eb50dbb8a2b3",
+            "id": "9fadfef82d7643b3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,79 +136,109 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "436d75c49c949463",
+            "id": "a9dac2fb8c712c85",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "ba1ec06a672fb227",
+    "id": "43f91e54ac55837e",
     "type": "split",
     "children": [
       {
-        "id": "6cea78168fbf9ccd",
+        "id": "fda2f3853b668721",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa5a4c073617928",
+            "id": "a66195d45674f40f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Some note.md",
-                "collapseAll": false,
+                "file": "Magical and technological levels in Oem.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Magical and technological levels in Oem"
             }
           },
           {
-            "id": "5acb7020384970a8",
+            "id": "2c032532e7031306",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "Magical and technological levels in Oem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Magical and technological levels in Oem"
             }
           },
           {
-            "id": "f850ba7e9e699bea",
+            "id": "9aacdcd4beae567e",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "2d9129bb8dcf7983",
+            "id": "a5e8d232965cc391",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "73a1d2b4b927f878",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/Some note.md"
-              }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -151,20 +250,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "1e01f906f1e65239",
   "lastOpenFiles": [
-    "category-folder/index.md",
-    "category-folder/Some note.md",
-    "index.md",
-    "category-folder"
+    "Gods/Bloodquill.md",
+    "Species/Perennial.md",
+    "Species/Felkin.md",
+    "Species/Luruthi.md",
+    "Species/Giant.md",
+    "Miscellaneous/Ostorian Calendar.md",
+    "Species/Human.md",
+    "Species/Elf.md",
+    "Species/Dwarf.md",
+    "Species/Dragonborn.md",
+    "People/Stormriders/Taeko Vostok.md",
+    "People/Stormriders/Yaykov.md",
+    "People/Stormriders/Waive Barin.md",
+    "People/Stormriders/Val.md",
+    "People/Stormriders/Zhie-Lai.md",
+    "People/Stormriders/Meen.md",
+    "People/Stormriders/Maeve.md",
+    "People/Stormriders/Jax.md",
+    "People/Stormriders/Hao-Len.md",
+    "People/Stormriders/Fizz.md",
+    "People/Stormriders/Danja.md",
+    "People/Stormriders/Clamour.md",
+    "People/Stormriders/Becko.md",
+    "People/Stormriders/Amos.md",
+    "People/Arcaxius/Wendallia Kirstein.md",
+    "People/Arcaxius/Yurtris Fenbryte.md",
+    "Untitled",
+    "Wildlife",
+    "Locations/Umaran Empire/Hiamyth",
+    "Locations/Umaran Empire/Dûnar",
+    "Magic/Magical Technology",
+    "Locations/Umaran Empire/Nadiria",
+    "Locations/Liengard",
+    "People/Arcaxius",
+    "People/Stormriders",
+    "Locations/Arcaxius"
   ]
 }

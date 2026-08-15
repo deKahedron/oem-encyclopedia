@@ -1,0 +1,5 @@
+Entropic Necrosis is a [[Magical Disease|magical disease]] that causes accelerated aging in localised parts of the body.
+
+During the early days of chronurgy, it was not entirely uncommon for pioneers in the field to suffer a condition that caused their hands and/or mouth to rapidly age and decay, as a result of anomalous distorted timeflow. Whilst cases in the hands could be survived without assistance, serious symptoms around the face could lead to a rapid and painful death.
+
+Any cases of this disease can be easily cured with powerful restoration magic. In recent times, the condition has become much rarer, as all the chronurgy spells recognized by the [[University of Arcaxius]] are proven to be safe. The danger still exists, however, for those experimenting with new forms of chronurgy. It is crucially advised that anyone practicing experimental time magic do so with magical healing nearby.
