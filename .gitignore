@@ -1,2 +1,5 @@
 .trash/*
 source/content/.obsidian/workspace.json
+source/public/*
+source/node_modules/*
+source/quartz/.quartz-cache/*
