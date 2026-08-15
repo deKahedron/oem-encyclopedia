@@ -1,3 +1,215 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+/* =========================================================
+   Avyrra-style Infobox
+   ========================================================= */
+
+.callout[data-callout="infobox"] {
+  /* Match the dark card in Obsidian */
+  --color: #a970ff;
+  --border: transparent;
+  --bg: #282828;
+
+  float: right;
+  width: min(100%, 25rem);
+
+  margin: 0 0 1.5rem 1.75rem;
+  padding: 0 1.5rem 1.5rem;
+
+  border: none;
+  border-radius: 0.75rem;
+
+  background: var(--bg);
+
+  box-sizing: border-box;
+
+  /* Don't let the normal callout styling interfere */
+  box-shadow: none;
+}
+
+/* ---------------------------------------------------------
+   Title
+   --------------------------------------------------------- */
+
+.callout[data-callout="infobox"] > .callout-title {
+  display: block;
+
+  padding: 1.5rem 0 0.75rem;
+
+  text-align: center;
+
+  color: #a970ff;
+}
+
+.callout[data-callout="infobox"] > .callout-title > .callout-icon {
+  display: none;
+}
+
+.callout[data-callout="infobox"] .callout-title-inner {
+  display: block;
+
+  width: 100%;
+
+  font-size: 1.25rem;
+  font-weight: 700;
+
+  color: #a970ff;
+}
+
+/* ---------------------------------------------------------
+   Content
+   --------------------------------------------------------- */
+
+.callout[data-callout="infobox"] > .callout-content {
+  padding: 0;
+}
+
+/* ---------------------------------------------------------
+   Image
+   --------------------------------------------------------- */
+
+.callout[data-callout="infobox"] > .callout-content > p:has(> img) {
+  margin: 0 0 1.5rem;
+
+  text-align: center;
+}
+
+.callout[data-callout="infobox"] > .callout-content img {
+  display: block;
+
+  max-width: 75%;
+  max-height: 180px;
+
+  margin: 0 auto;
+
+  object-fit: contain;
+
+  border-radius: 0.75rem;
+}
+
+/* ---------------------------------------------------------
+   Field tables
+   --------------------------------------------------------- */
+
+.callout[data-callout="infobox"] table {
+  width: 100%;
+
+  margin: 0 0 1rem;
+
+  border: none;
+  border-collapse: collapse;
+
+  background: transparent;
+}
+
+/* Remove the Markdown table header */
+.callout[data-callout="infobox"] table thead {
+  display: none;
+}
+
+.callout[data-callout="infobox"] table tbody {
+  border: none;
+}
+
+.callout[data-callout="infobox"] table tr {
+  border: none;
+  background: transparent;
+}
+
+.callout[data-callout="infobox"] table td {
+  padding: 0.15rem 0;
+
+  border: none;
+
+  vertical-align: top;
+
+  background: transparent;
+}
+
+/* Left-hand labels */
+.callout[data-callout="infobox"] table td:first-child {
+  width: 40%;
+
+  padding-right: 0.75rem;
+
+  font-weight: 700;
+
+  color: var(--darkgray);
+}
+
+/* Right-hand values */
+.callout[data-callout="infobox"] table td:last-child {
+  width: 60%;
+
+  color: var(--darkgray);
+}
+
+/* Links should retain Quartz's link styling */
+.callout[data-callout="infobox"] table a {
+  color: var(--secondary);
+}
+
+/* ---------------------------------------------------------
+   Appearances heading
+   --------------------------------------------------------- */
+
+.callout[data-callout="infobox"] .callout-content h3 {
+  margin: 1.25rem 0 0.25rem;
+
+  text-align: center;
+
+  font-size: 1rem;
+  font-weight: 700;
+
+  color: var(--darkgray);
+}
+
+/* Appearance entries */
+.callout[data-callout="infobox"] .callout-content h3 + p {
+  margin-top: 0;
+
+  text-align: left;
+}
+
+/* ---------------------------------------------------------
+   Dark mode
+   --------------------------------------------------------- */
+
+[saved-theme="dark"] .callout[data-callout="infobox"] {
+  --bg: #282828;
+}
+
+[saved-theme="dark"] .callout[data-callout="infobox"] table td:first-child,
+[saved-theme="dark"] .callout[data-callout="infobox"] table td:last-child,
+[saved-theme="dark"] .callout[data-callout="infobox"] .callout-content h3 {
+  color: #d4d4d4;
+}
+
+/* ---------------------------------------------------------
+   Light mode
+   --------------------------------------------------------- */
+
+[saved-theme="light"] .callout[data-callout="infobox"] {
+  --bg: #f0f0f0;
+}
+
+[saved-theme="light"] .callout[data-callout="infobox"] table td:first-child,
+[saved-theme="light"] .callout[data-callout="infobox"] table td:last-child,
+[saved-theme="light"] .callout[data-callout="infobox"] .callout-content h3 {
+  color: #4e4e4e;
+}
+
+/* ---------------------------------------------------------
+   Mobile
+   --------------------------------------------------------- */
+
+@media all and (max-width: 800px) {
+  .callout[data-callout="infobox"] {
+    float: none;
+
+    width: 100%;
+
+    margin: 1rem 0 1.5rem;
+  }
+}
