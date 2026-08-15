@@ -1,3 +1,8 @@
+---
+title: Welcome to Oem
+aliases:
+  - /
+---
 Welcome adventurer, to the world of Oem!
 
 This is world where the mighty few make earth-shaking decisions, while the common people fight every day to navigate the wonder and the dread that trickles down upon them.
