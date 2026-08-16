@@ -36,7 +36,7 @@ The following year, the chalicans returned. In one night, they destroyed every N
 
 Having lost the secret designs that once bound the empire, the nations that form it are still nominally united. In practice, however, the empire is split in two blocks: the Eastern Empire, composed of Dûnar and Hiamyth, and the Western Empire, composed of the Manilands.
 ### Modern day
-Since the fall of Nadiria and the Umaran dynasty, the empire has been ruled by [[Weylin Damasil|Emperor Weylin Damasil]] from the new imperial capital, the mythian city of [[Stormcross]]. Due to the separation of powers and relative provincial sovereignty established during the empire's expansion, the Emperor now lives in a kingdom where he arguably has less power than the ruler of Hiamyth, [[Galigos Tinanbaria|Archduke Galigos Tinanbaria]].
+Since the fall of Nadiria and the Umaran dynasty, the empire has been ruled by [[Weylin Damasil|Emperor Weylin Damasil]] from the new imperial capital, the Mythian city of [[Stormcross]]. Due to the separation of powers and relative provincial sovereignty established during the empire's expansion, the Emperor now lives in a kingdom where he arguably has less power than the ruler of Hiamyth, [[Galigos Tinanbaria|Archduke Galigos Tinanbaria]].
 
 The imperial family has little support from the common people. Among the longer-lived races, the Nadirians are still remembered as harbingers of mass-destruction, and the Great Humbling is held in superstitious regard as a form of divine punishment upon the gnomes for their hubris.
 

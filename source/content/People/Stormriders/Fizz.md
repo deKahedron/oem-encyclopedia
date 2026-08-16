@@ -20,7 +20,7 @@ Fizz was an outlaw and a member of the [[Stormrider Gang]].
 > [[Kriv & Friends (campaign)|Kriv & Friends]] (NPC)
 > [[Stormriders (campaign)|Stormriders]] (Party NPC)
 ### Life
-Fizz grew up as an urchin. In his teens, he and [[Waive Barin]] banded together as outlaws, running scams burglaries. Fizz remained in the gang until his death.
+Fizz grew up as an urchin. In his teens, he and [[Waive Barin]] banded together as outlaws, running scams and burglaries. Fizz remained in the gang until his death.
 
 Fizz was killed by [[Krong|Krong the Destroyer]] after the Stormriders stole a score from [[Kriv & Friends (party)|Kriv Dilmerev's gang]]. In his last moments, Fizz, who had already taken a wound to the leg, tried distract the attackers away from [[Jax]], who was still barely alive. After killing him, Dilmerev's gang ate Fizz.
 ### Personality

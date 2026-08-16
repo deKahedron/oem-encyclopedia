@@ -21,7 +21,7 @@ As you make your character, there are a few pages you should read that will help
 > 
 > Algunos lugares, eventos etc. tienen nombres bastante diferentes en español. En cualquier caso en el que el nombre en español no sea una traducción directa del inglés, aparecerá la traducción como un subtítulo en cursiva. 
 ### Important info about the setting
-* Oem is a single continent. None one from Oem has ever visited any other lands and returned to tell about it.
+* Oem is a single continent on the southern hemisphere of its planet. No one from Oem has ever visited any other lands and returned to tell about it.
 * The current year is 3438. If you are playing in the [[Harpers (Campaign)|Harpers campaign]], the exact date of the adventure will be available on the discord server.
 * There is no Common language in Oem. For each campaign, the most prominent language will be specified, and you can swap it in for Common on your character sheet.
 * The minute 19:51 of each day was destroyed. Time appears to jump straight from 19:50:59 to 19:52:00. [[The Broken Minute|Click here for more info on how different effects interact with this phenomenon.]]
@@ -33,8 +33,8 @@ As you make your character, there are a few pages you should read that will help
 * If you are playing in the Harpers campaign, read the page on the [[Harpers]].
 ### Recommended reads
 * Read the info on the [[Languages|languages]] your character speaks. They aren't very important, but they have some flavour that could affect how your character interacts with the world.
-* If you are playing a character in a long-form campaign, see [[Major events within living memory|major events within living memory.]]
-* [[Magical and technological levels in Oem|General information about the technology and magic you can expect to find across the continent.]]
+* If you are playing a character in a long-form campaign, see [[Major events within living memory|major events within living memory]].
+* [[Magical and technological levels in Oem|General information about the technology and magic you can expect to find across the continent]].
 
 ***
 

@@ -12,4 +12,6 @@ Despite its tropical latitude, the tundras of [[Liengard]] remain a frozen waste
 # [[Qilan]]
 A volcanic peninsula to the north of Liengard, completely overrun by the territorial influence of the red [[Dragon|dragon]] [[Qilakestis]].
 # [[The Disputed Lands]]
-After the fall of [[Nadiria]] in the [[Great Humbling]], The western coast of the [[Fuegil & the Manilands|Manilands]] was conquered by invading [[Chalican|chalicans]].
+After the fall of [[Nadiria]] in the [[Nadiria#The Great Humbling|Great Humbling]], The western coast of the [[Fuegil & the Manilands|Manilands]] was conquered by invading [[Chalican|chalicans]].
+
+![](https://lh3.googleusercontent.com/d/1tLJqZDCiPRC5YaaqvHRKbYyEJkGwkD_O)

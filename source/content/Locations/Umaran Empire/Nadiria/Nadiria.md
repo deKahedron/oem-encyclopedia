@@ -1,8 +1,5 @@
 Nadiria is the central province of the [[Umaran Empire]] and its former capital. It is a chaotic magical wasteland formed in the ruins of a once-mighty civilization of [[Arcane Magic|arcane]] technocrats.
 > [!infobox] Nadiria
-> ![](https://obsidian.md/images/2023-06-logo.png)
-> 
-> 
 > Type -> Region, imperial province
 > Founded -> 2606
 > Capital -> [[Hayzelle]]
@@ -53,3 +50,5 @@ Many such dangers are simply dormant spells awaiting a valid target, but the she
 Of the few humanoids that still reside in the region, most are nomadic scavengers who search the safer ruins for valuable artefacts and anomalies. Some are mutated survivors from the fall, either unable or unwilling to leave the site of their fall.
 
 Within the ruined cities, many constructs and works of civil engineering still function. These devices can be activated by inserting [[Electrum|electrum]] pieces into them, a remnant of the Nadirians ever-extractive relationship with their populace.
+
+![](https://lh3.googleusercontent.com/d/1SExN0g8ugFPunyob0CgHage5gzpUlxc7)

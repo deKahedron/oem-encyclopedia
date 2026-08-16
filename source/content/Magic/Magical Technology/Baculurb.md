@@ -1,4 +1,4 @@
-A baculurb is a [[Nadiria|nadirian]] civil structure shaped like a gigantic pylon that was used to gather [[Magic|magical]] power from the nadirian peasantry.
+A baculurb is a [[Nadiria|Nadirian]] civil structure shaped like a gigantic pylon that was used to gather [[Magic|magical]] power from the Nadirian peasantry.
 
 In a way, a baculurb serves as a city-block-scale arcane focus. Citizens of the city would be paid a pittance to channel their dregs of magical power into the baculurb. This power could then be used by the elite technocrats or through a [[Strutveil Mosaic]].
 

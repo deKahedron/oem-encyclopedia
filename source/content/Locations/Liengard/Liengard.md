@@ -1,8 +1,5 @@
 Liengard is a dry, frozen region in the northwest of [[Oem]]. The region's climate clashes with its equatorial latitude, maintained by the regional influence of [[Bastorin's Spawn]], a dynasty of white [[Dragon|dragons]] that have lived in the region since before the continental drift placed it where it is now.
 > [!infobox] Liengard
-> ![](https://obsidian.md/images/2023-06-logo.png)
-> 
-> 
 > Type -> Region
 > Capital -> None
 > Main languages -> [[Undercommon]], [[Goblin (language)|Goblin]], [[Giant]]
@@ -32,3 +29,4 @@ A society of [[Hobgoblin#Siika|siika hobgoblins]] lives in Ten Towns, a quieter 
 Shaggy-haired [[Goliath#Tundra goliath|tundra goliaths]] live near the mountain peaks to the south.
 
 The region was once populated by [[Orc|orcs]], but they were conquered and expelled by the hobgoblins in the 29th century.
+

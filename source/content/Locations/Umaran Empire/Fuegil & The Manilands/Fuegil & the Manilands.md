@@ -1,9 +1,6 @@
 **Fuegil & the Manilands** is the westernmost province of the [[Umaran Empire]]. It was formed after the [[Great Humbling]], in order to unify the dozens of small territories that had been displaced and damaged by the [[Chalican|Chalican]] [[Chalican Invasion|Invasion]].
 [[Fuegil]] is the largest region of the province, and houses the capital, [[Black Harbour]].
 > [!infobox] Fuegil and the Manilands
-> ![](https://obsidian.md/images/2023-06-logo.png)
-> 
-> 
 > Type -> Region, imperial province
 > Founded -> 3338
 > Capital -> [[Black Harbour]]
@@ -45,4 +42,6 @@ The [[Sacrum Sophia]] is the central church system of [[Fuegil]] and has been in
 ### Language
 [[Borderspeech]] is the main language spoken across the Manilands. [[Gillish]] is still common in the south, in and around Fuegil.
 ### The Glamoran Civil War
-The Manilands's efforts at reconquering the [[The Disputed Lands|Disputed Lands]] have been halted by a [[The Glamoran Civil War|civil war]].
+The Manilands' efforts at reconquering the [[The Disputed Lands|Disputed Lands]] have been halted by a [[The Glamoran Civil War|civil war]].
+
+![](https://lh3.googleusercontent.com/d/12Zvm0ZlVo3ST0OjMI_YI6RmRIamCj4fJ)

@@ -1,8 +1,5 @@
 Hiamyth is the easternmost province in the [[Umaran Empire]]. It spans the land between the [[Shadowy Mountains]] and the [[Guong Range]]. The region existed as a single kingdom long before it was annexed and is filled with the crumbling remnants of empires old and new.
 > [!infobox] Hiamyth
-> ![](https://obsidian.md/images/2023-06-logo.png)
-> 
-> 
 > Type -> Region, imperial province
 > Founded -> 2346
 > Capital -> [[Stormcross]]
@@ -51,3 +48,5 @@ After the [[Great Humbling|fall of Nadiria]] in 3337, the the empire's capital w
 Other species make up the majority groups in certain regions: [[Goliath|goliaths]] and [[Aarakocra|aarakocra]] in the Guong Range or [[Orc|orcs]] in the Shadowy Mountains,
 
 The [[Elf#Wood Elf|wood elves]] of the sylvan courts rule a very large surface area but intermingle little with the other peoples, including their own serfs.
+
+![](https://lh3.googleusercontent.com/d/11Nt1cpJ_nHBKsSUzc2lWHOkOwpHnM6Zz)

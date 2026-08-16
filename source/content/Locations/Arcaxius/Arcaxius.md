@@ -1,8 +1,5 @@
 Arcaxius is a region of thick jungle in northern [[Oem]], owned by the Sovereign University of Arcaxius.
-> [!infobox] Arcaxius
-> ![](https://obsidian.md/images/2023-06-logo.png)
-> 
-> 
+> [!infobox] Arcaxius 
 > Type -> Sovereign nation
 > Founded -> 2256
 > Capital -> [[University of Arcaxius|The Sovereign University]]
@@ -27,3 +24,4 @@ The most powerful settlement in Arcaxius is the [[University of Arcaxius|Soverei
 ### Other settlements
 * [[Ssai-Sh'aa]]
 * [[White Stem]]
+![](https://lh3.googleusercontent.com/d/1IvWoMmkRX43mFcHnuKafeQPcQ8CA4lel)

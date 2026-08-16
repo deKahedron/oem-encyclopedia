@@ -31,7 +31,7 @@ example, compare the spells *Levitate* and *Tenser’s Floating Disk*. *Tenser�
 * Similarly, a more involved ritual (extending the casting time, or focusing the caster’s full attention on the effect whilst it lasts) helps to sustain the effect more easily.
 Quiescence is measured in **Serens (s)**.
 #### Power (P)
-###### Potencia
+###### *Potencia*
 Magical power, measured in **Thaums (þ)**, represents the total amount of mental and physical effort required to cast a spell. From this property, we derive the spell’s level, which is calculated as log₈(P), rounded to the nearest whole number.
 
 The highest power ever recorded was 1.07 Gþ, a record set by [[Ingritte Skårgard]]; however, it is likely that this feat may have been surpassed by legendary figures such as [[Mordenkainen]], [[Caeran]] or [[Auril]].
