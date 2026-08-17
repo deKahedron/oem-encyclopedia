@@ -20,8 +20,8 @@ Damaran culture borrows heavily from the culture of old [[Giant#Ostoria|Ostoria]
 Damaran philosophy promotes collaboration within rigid societal structures. Social mobility is rare, people are expected to find ways of excelling from within their social caste.
 ##### Damaran names
 Damaran names often feature the letter 'j', pronounced like a 'y'. Damaran surnames are usually passed down the male line.
-First names: Andrej, Aiden, Aristarchos, Danja, Galigos, Jerej, Kerron, Skotsel, Wajve
-Surnames: Barin, Lathlin, Mortem, Noven, Rusakov, Tinanbaria
+First names: Andrej, Aiden, Aristarchos, Dahlia, Danja, Desmond, Galigos, Halley, Jerej, Kerron, Merlilyn, Skotsel, Wajve
+Surnames: Barin, Lathlin, Mortem, Noven, Rooker, Rusakov, Tinanbaria
 ### Shou
 The shou are an ethnic group native to southern Hiamyth, from the lands that were once called [[Siara]]. They typically have black hair and almond-shaped eyes.
 

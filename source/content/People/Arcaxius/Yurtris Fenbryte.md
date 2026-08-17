@@ -12,6 +12,7 @@ Yurtris Fenbryte, The Plenty, was one of the [[The Six Liches|Six Liches]] of [[
 > 
 > Languages -> [[Gnomish]], [[Dwarvish]], [[Elvish]], [[Mythian]]
 > Titles -> The Plenty (epithet)
+> -> *Prosperidad (epíteto)*
 > -> Guild Master
 > -> Director of Fenbryte Industries
 > -> Archmage of Artificery
@@ -42,7 +43,7 @@ Fenbryte was an early adopted of the *Sending* spell, using it to coordinate her
 ### At the University
 In the year 2835, Yurtris Fenbryte was invited to the University of Arcaxius to teach artificing. While she accepted the title of Archmage, she did so on the condition that her personal lectures be very limited, allowing to continue devoting most of her time to growing her own company. It was in the environment of freedom that Arcaxius afforded her, away from the Nadirian guilds, that Fenbryte Industries took shape.
 ### As a lich
-During the centuries that the liches ruled Arcaxius, Fenbryte Industries remained one of the main sources of a salary for any independent researchers studying there without a wealthy patron. 
+During the centuries that the liches ruled Arcaxius, Fenbryte Industries remained one of the main sources of paid work for any independent researchers studying there without a wealthy patron. 
 ### Influence on the Umaran Empire
 During the rise and height of the [[Umaran Empire]], The Plenty and her company kept close relations with the Nadirian army. While they didn't create the designs, Fenbryte Industries was hired to assist in mass-production of many Nadirian civil projects and weapons, from [[Baculurb|baculurbs]] to [[Psychic Bell|psychic bells]].
 

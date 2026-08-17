@@ -38,7 +38,7 @@ The number of dragons has been relatively stable since the end of the [[Age of T
 ### Origin
 Dragons are much older than any humanoid races. It is unknown whether they were naturally evolved or born from some kind of magic.
 
-It is said that the *Excisive Cycle* began with the [[Excision of Tiamut|excision of Tiamut]]. During this event, the grey head of the four-headed dragon goddess [[Tiamat|Tiamut]] rebelled against the others, separating from them and becoming [[Bahamut]], the god of metallic dragons. From the stump of the grey head, two new heads grew, one black, one white.
+It is said that the *Excisive Cycle* began with the [[Excision of Tiamut|excision of Tiamut]]. During this event, the one head of the four-headed dragon goddess [[Tiamat|Tiamut]] rebelled against the others, separating from them and becoming [[Bahamut]], the god of metallic dragons. From the stump of the lost head, two new heads grew, and Tiamut's colours became distinct, each remaining head solidifying into one hue.
 
 Some [[Human#Shou|shou]] scholars claim the *Cycle* as evidence that Bahamut will one day re-join Tiamat, bringing about a new age of dragon dominion.
 ### Chromatic dragons
