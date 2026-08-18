@@ -26,8 +26,10 @@ Dûnar is a province in the [[Umaran Empire]]. It was formed from the unificatio
 * [[Undercove]]
 ### Landmarks
 * [[Crowned Peak]]
+* [[Paili's Folly]]
 * [[The Leaning Sail]]
 * [[Mount Jeong-Yo]]
+* [[The Navel]]
 ### Culture
 [[Dwarf|Dwarvish]] culture is ubiquitous all across Dûnar. Their role as the great ambassadors between the surface and the Underdark have made turned their cavernous cities into trade hubs and given them access to crafting techniques from many other cultures.
 
