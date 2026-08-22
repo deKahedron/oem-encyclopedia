@@ -3,7 +3,7 @@ Text
 > ![](https://obsidian.md/images/2023-06-logo.png)
 > 
 > 
-> Species -> [[Template (Species)]]
+> Species -> [[Template (Species)|Species]]
 > Ethnicity -> Ethnicity
 > Born -> YYYY, Location
 > Died -> YYYY, Location

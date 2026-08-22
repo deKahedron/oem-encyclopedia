@@ -24,7 +24,7 @@ The name Harpers was chosen in honour of [[Lineeckah|Lineeckah's]] epithet, part
 ### Political involvement
 Within the first years of their activity, the Harpers were involved in helping organise the riots that led to the overthrowing of the county of Bathannot and the creation of the pseudo-democratic barony in its place.
 
-In response to many other nobles placing pressure on the guild to assist them in their own power struggles, High Harper Claravela Sixpins moved the headquarters to the small mountain village of [[Newhearth]], in the [[Guong Range]]. This in itself was considered a charged decision, as Newhearth was founded by Hel-Dhao.
+In response to many other nobles placing pressure on the guild to assist them in their own power struggles, High Harper [[Claravela Sixpins]] moved the headquarters to the small mountain village of [[Newhearth]], in the [[Guong Range]]. This in itself was considered a charged decision, as Newhearth was founded by Hel-Dhao.
 
 Since then, the Harpers' official stance is that they do not select contracts based on political affiliation. While their members are free to fight in any conflict they wish, the guild will not assign jobs against regional governments nor against their citizens.
 ### Responsibilities and protections
