@@ -1,3 +1,4 @@
+###### Encadenados
 Indentured are sapient constructs created by [[Fenbryte Industries]] using humanoid [[Soul|souls]].
 > [!infobox] Indentured
 > ![](https://lh3.googleusercontent.com/d/1qx_sW7vnIwd6Ff9gbzPOdLW5hIWrFLiu)
