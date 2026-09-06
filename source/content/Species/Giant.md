@@ -11,7 +11,7 @@ Giants are huge, human-shaped sapient monsters that ruled [[Oem]] thousands of y
 ### Biology
 Giants a single-generation species; they have never been known to reproduce. A dying giant can enter a dormant state, transforming into a part of the world around them: stone giants turn into great stone cliffs, hill giants into mounds of earth, frost giants into glaciers, etc.
 
-A dormant giant can remain in this state for centuries of even millennia. They do not need to eat and are unidentifiable by all but the most trained eye, or by other giants.
+A dormant giant can remain in this state for centuries or even millennia. They do not need to eat and are unidentifiable by all but the most trained eye.
 
 It is not known what exactly causes a giant to reawaken and resume its corporeal form. However, the longer a giant has been dormant, the less it seems to remember of the events of the past once it awakens.
 ### Origin
@@ -37,10 +37,11 @@ In the current age, the few giants who remain alive and active are mostly solita
 * The city of [[Skyte]], in western [[Alheuffikh]]. An underground metropolis built by stone giants, one part of which is open and welcoming to humanoid races.
 * The City of Brass on the [[Elemental Planes|Elemental Plane of Fire]]. This place is still home to many fire giants, though many of them resent that they are no longer the sole rulers of that place.
 ### Known giants
+* [[Brijantha]]
 * [[Fomorian]]
 * [[Grünwen]]
 * [[Ilfje|Ilfje the Eternal]]
-* [[Paradochos]]
+* [[Parabakos]]
 * [[Sindri Surtrsen]]
 * [[Snurre|King Snurre]]
 * [[Toreneas|Queen Toreneas]]

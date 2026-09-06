@@ -34,7 +34,7 @@ Hiamyth is the easternmost province in the [[Umaran Empire]]. It spans the land 
 * [[Oncehaven]]
 * [[Ulric's Rest]]
 ### History
-Hiamyth was formed in the wake of the conquests of the [[Myth King]], a legendary figure who united modern Hiamyth with a combination of military conquest, diplomacy and [[Divine Magic]]. Before the Myth King, these lands were known as the [[Second Ostorian Empire]], [[Siara]], the [[Court of Thread]], the [[Court of Flame]] and the [[Court of Flowers]].
+Hiamyth was formed in the wake of the conquests of the [[Myth King]], a legendary figure who united modern Hiamyth with a combination of military conquest, diplomacy and [[Divine Magic]]. Before the Myth King, these lands were known as the [[Second Ostorian Empire]], [[Siara]], the [[Court of Silk]], the [[Court of Wine]] and the [[Court of Flowers]].
 
 Hiamyth is built upon the ruins of both the original [[Giant#Ostoria|Ostoria]] and dozens of ancestral [[Dragon|dragon]] hoards. Throughout Mythian history, there has been tension between the cultural descendants of the [[Giant|giants]] and dragons. The [[Mythian|Mythian language]] is a descendant of both [[Giant (Language)|Giant]] and [[Draconic]].
 

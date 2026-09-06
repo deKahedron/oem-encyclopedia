@@ -1,4 +1,4 @@
-###### Encadenados
+###### *Encadenados*
 Indentured are sapient constructs created by [[Fenbryte Industries]] using humanoid [[Soul|souls]].
 > [!infobox] Indentured
 > ![](https://lh3.googleusercontent.com/d/1qx_sW7vnIwd6Ff9gbzPOdLW5hIWrFLiu)
@@ -12,7 +12,9 @@ Indentured are sapient constructs created by [[Fenbryte Industries]] using human
 ### Shackled anew
 Pitched to investors as a chance at immortality without the distastefulness of lichdom, the [[Project Golden Blood|Golden Blood project]] was of special interest to [[Yurtris Fenbryte]] as a way of one-upping her colleague and long-time rival [[Wendallia Kirstein|The Salvation]].
 
-But this was not the end of her ambitions. For Fenbryte Industries, the average worker is cheap, overworked and easy to replace in the case of an untimely accident or death. However, certain specialists are uniquely talented enough to warrant keeping around.
+But this was not the end of her ambitions. For Fenbryte Industries, the average worker is cheap, overworked and easy to replace in the case of an untimely accident or death. Constructs can work day and night with no need for direct oversight, but, without souls, they cannot cast magic of their own, a necessary skill for producing much of Fenbryte's merchandise.
+
+Furthermore, certain specialists are uniquely talented enough to warrant keeping around.
 
 These unfortunate souls were sealed into ageless machine bodies. Held in their mind-cages is enough of their personality to maintain their usefulness and creativity, all the while a [[Fenbryte's Formality]] scroll compels them to continue their labour, forever deprived of the freedom of sleep.
 ### Intricate construction

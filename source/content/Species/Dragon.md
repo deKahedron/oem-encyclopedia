@@ -21,6 +21,8 @@ Dragons may be inherently magical creatures, but they have existed for so long t
 Dragons are hermaphroditic and oviparous. They lay eggs in clutches. A dragon egg is about half a meter tall and weighs close to 30 kilograms. The number of eggs in a clutch varies based on the age and size of the mother.
 
 Chromatic dragons are spawned from metallic parents and metallic dragons from chromatic parents. This phenomenon is known as the *Excisive Cycle*.
+##### Gender
+Despite being hermaphroditic, many dragons identify with a specific gender, especially metallic dragons who tend to live among other creatures.
 ##### Breath weapons
 Dragons are able to produce powerful effects from their breath. The effects they can produce depend on their colour. Chromatic dragons can only produce destructive blasts, but metallic dragons can also create other effects.
 ##### Hoards
