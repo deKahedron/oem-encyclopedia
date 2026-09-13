@@ -15,6 +15,7 @@ Hiamyth is the easternmost province in the [[Umaran Empire]]. It spans the land 
 > [[Stormriders (campaign)|Stormriders]]
 ### Regions
 * [[Bay of Grief]]
+* [[Dreamless Meadow|The Dreamless Meadow]]
 * [[The Lancegarden]]
 * [[Shadowy Mountains]]
 ### Towns and cities
@@ -26,6 +27,7 @@ Hiamyth is the easternmost province in the [[Umaran Empire]]. It spans the land 
 * [[Juggerwall]]
 * [[Kavasté]]
 * [[Paramare]]
+* [[Stambotza]]
 * [[Stormcross]]
 * [[Tramore]]
 ### Landmarks

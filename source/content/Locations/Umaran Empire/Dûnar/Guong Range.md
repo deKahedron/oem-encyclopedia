@@ -1,0 +1,1 @@
+The Guong Range is a mountain range that separates [[Hiamyth]] from [[Dûnar]]. It meets the sea to the south and the [[Dreamless Meadow]] to the north.
