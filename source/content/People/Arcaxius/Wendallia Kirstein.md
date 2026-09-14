@@ -11,8 +11,8 @@ Wendallia Kirstein, known mainly as The Salvation, was one of the [[The Six Lich
 > Status -> Dead, thank the gods
 > 
 > Languages -> [[Elvish]], [[Sylvan]], [[Draconic]], [[Infernal]], [[Mythian]]
-> Titles -> The Salvation (epithet)
-> -> Archmage of Onomancy
+> Alias -> The Salvation (epithet)
+> Titles -> Archmage of Onomancy
 > -> Professor
 > -> Lady Kirstein (renounced)
 > 

@@ -10,9 +10,9 @@ Andrej Rusakov, The Truth, was one of the [[The Six Liches|Six Liches]] of [[Arc
 > Status -> Dead
 > 
 > Languages ->  [[Mythian]], [[Elvish]], [[Giant (Language)]]
-> Titles -> The Truth (epithet)
+> Alias -> The Truth (epithet)
 > -> Archmage of Divination
-> -> Professor
+> Titles -> Professor
 > 
 > Relationships -> [[The Six Liches]] (member)
 > -> [[Yurtris Fenbryte]] (close friend)

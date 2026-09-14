@@ -11,9 +11,9 @@ Quentyn "Drakkenhide" Yerrian is the 22nd and current leader of the [[Harpers]].
 > Status -> Alive
 > 
 > Languages -> [[Goblin (language)|Goblin]], [[Mythian]], [[Giant (Language)|Giant]]
-> Titles -> High Harper
-> -> Drakkenhide
+> Alias -> Drakkenhide
 > -> Toad (by [[Hyluri|the Great Hyluri]])
+> Titles -> High Harper
 > 
 > Relationships -> [[Anya Orváes]] (close friend)
 > Affiliations -> [[Harpers]]

@@ -10,7 +10,7 @@ Brinda Graeglass is an adventurer and the current chief dispatcher of the [[Harp
 > Status -> Alive
 > 
 > Languages -> [[Halfling]], [[Mythian]], [[Celestial (Language)|Celestial]], [[Sylvan]]
-> Titles -> The Messenger Star 
+> Alias -> The Messenger Star 
 > 
 > Relationships -> [[Quentyn Yerrian]] (close friend)
 > Affiliations -> [[Harpers]]

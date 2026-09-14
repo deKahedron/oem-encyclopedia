@@ -11,8 +11,8 @@ Kjava Fijesko was a princess of the Fijesko dynasty of [[Hiamyth]]. She was at t
 > Occupation -> Royalty
 > Status -> Dead
 > 
+> Alias -> The Queen Entombed
 > Titles -> Kjava I
-> -> The Queen Entombed
 > 
 > Relationships -> [[Desmond Fijesko IV|Desmond IV]] (father)
 > -> [[Sergej Fijesko|Sergej II]] (brother)

@@ -12,8 +12,8 @@ Text
 > Status -> Alive/Dead/Other
 > 
 > Languages -> Language 1, Language 2
+> Alias -> Nickname (by Character(s) who call them that)
 > Titles -> Title 
-> -> Nickname (by Character(s) who call them that)
 > 
 > Relationships -> Character 1 (relationship)
 > -> Character 2 (relationship)

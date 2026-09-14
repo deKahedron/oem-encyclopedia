@@ -12,7 +12,7 @@ The Nameless Namer, formerly Abakim, was a powerful [[Onomancy|onomancer]] who p
 > Status -> Dead
 > 
 > Languages -> [[Elvish]], [[Sylvan]], [[Infernal]], [[Celestial (Language)|Celestial]]
-> Also known as -> Brightstring Abakim (cast-off identity)
+> Alias -> Brightstring Abakim (cast-off identity)
 > -> Master (by [[Valarr]])
 > 
 > Relationships -> [[The Six Liches]] (sworn enemies)

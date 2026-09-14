@@ -11,7 +11,7 @@ Anya Orváes is an adventurer and the current quartermaster of the [[Harpers]] G
 > Status -> Alive
 > 
 > Languages -> [[Mythian]], [[Infernal]]
-> Titles -> The Ruby Moon (by the [[Hyluri|Great Hyluri]]) 
+> Alias -> The Ruby Moon (by the [[Hyluri|Great Hyluri]]) 
 > 
 > Relationships -> [[Quentyn Yerrian]] (close friend)
 > Affiliations -> [[Harpers]]

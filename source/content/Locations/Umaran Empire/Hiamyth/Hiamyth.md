@@ -30,6 +30,7 @@ Hiamyth is the easternmost province in the [[Umaran Empire]]. It spans the land 
 * [[Stambotza]]
 * [[Stormcross]]
 * [[Tramore]]
+* [[Udak Sul]]
 ### Landmarks
 * [[Blue Lichen Point]]
 * [[Enskjeld Foundry]]

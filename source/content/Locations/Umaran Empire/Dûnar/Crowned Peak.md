@@ -1,0 +1,1 @@
+Crowned Peak is a mountain in southern [[Dûnar]]. It houses the lair of the [[Dragon|dragon]] [[Mydhayra]].

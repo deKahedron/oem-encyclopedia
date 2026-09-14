@@ -11,9 +11,9 @@ Yurtris Fenbryte, The Plenty, was one of the [[The Six Liches|Six Liches]] of [[
 > Pronouns -> She/her
 > 
 > Languages -> [[Gnomish]], [[Dwarvish]], [[Elvish]], [[Mythian]]
-> Titles -> The Plenty (epithet)
+> Alias -> The Plenty (epithet)
 > -> *Prosperidad (epíteto)*
-> -> Guild Master
+> Titles -> Guild Master
 > -> Director of Fenbryte Industries
 > -> Archmage of Artificery
 > -> Professor

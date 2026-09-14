@@ -10,8 +10,8 @@ Text
 > Status -> Alive
 > 
 > Languages -> [[Mythian]]
+> Alias -> Oh Shining One (by [[Janice]])
 > Titles -> Captain
-> -> Oh Shining One (by [[Janice]])
 > 
 > Relationships -> [[Yelena]] (sister)
 > -> [[Hao-Len]] (rivalry)

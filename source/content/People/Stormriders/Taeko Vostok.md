@@ -10,7 +10,7 @@ Taeko Vostok is a [[Wizard|wizard]] and metallurgist and one of the main minds b
 > Status -> Alive
 > 
 > Languages -> [[Mythian]], [[Dwarvish]], [[Elvish]]
-> Titles -> The Forgebreaker
+> Alias -> The Forgebreaker
 > -> Sparks (by [[Yaykov]])
 > 
 > Relationships -> [[Jerej Vostok]] (father)
