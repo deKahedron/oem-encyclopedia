@@ -1,3 +1,3 @@
 Five adventurers were hired by [[Victor Mograve]] to steal the [[Orb of Dragonkind]] from within the [[White Bank]]. Mograve contacted several escaped tiefling slaves from [[Highgale]], including a [[Blood Hunters|blood hunter]] and a [[Druid|druid]], both of whom accepted the job. 
 
-Mograve provided the team with a fake orb and two censers filled with his breath, which they could use to remove the ice around the real orb and then seal in the fake.
+Mograve provided the team with a fake orb and two censers filled with magical mist, which they could use to remove the ice around the real orb and then seal in the fake.
