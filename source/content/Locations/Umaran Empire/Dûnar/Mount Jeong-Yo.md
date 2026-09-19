@@ -1,3 +1,8 @@
 Mount Jeong-Yo (*The Seed of Winter* in [[Draconic]]) is a mountain in the [[Guong Range]] between [[Hiamyth]] and [[Dûnar]]. The city of [[Newhearth]] is located at the mountain's crown.
 ### Pariah's Climb
 There is an infamous route up the mountain from the eastern base. This path, known as Pariah's Climb, was first followed by [[Hel-Dhao]] and the [[Platinum Pariahs]] as they fled from the clutches of the Mythian crown. Despite the extreme dangers of the climb, legend says that all two thousand of the travellers survived to trek. At the mountain's peak, Hel-Dhao is said to have plunged her sword into the stone, lighting the [[Eternal Ember]] and founding Newhearth, where the exiles would be safe from their pursuers.
+
+The following inscription is carved in [[Draconic]] into a stone slab at the base of the climb:
+***To the base of this mountain did Bahamut guide Hel-Dhao and her followers, as path to new warmth. Though the trek be perilous, the Platinum Dragon did share his grace and wisdom from root to peak, sparing every single one of the two thousand and seventy souls under Hel-Dhao's care. In their memory, tread these hard roads with caution and accept what judgement the winds may impart.***
+
+*Hasta el pie de esta montaña guió Bahamut a Hel-Dhao y sus seguidores, a modo de senda hacia nuevo calor. A pesar de los peligros del ascenso, el Dragón de Platino hizo saber su Gracia y Sabiduría, de suelo hasta cima, pues cada una de las dos mil setenta almas superó el calvario. En memoria de estos peregrinos, camina con respeto por esta ruta y acepta aquel juicio que los vientos puedan impartir.*
