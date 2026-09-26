@@ -10,7 +10,7 @@ As [[Unnamed StR Party|the adventurers]] begin to trek [[Mount Jeong-Yo#Pariah's
 
 After the first day of climbing, the group encounters a large snowfall, which they circumvent by tying themselves to [[Mercy|Mercy's]] *Behemoth* form. After seeing the beast's chains up close and in daylight, [[Jenette Meirim|Jenette]] questions Mercy as to her comfort and stability in this form. Mercy refuses to open up about the matter, but takes Jenette's advice to confide in someone trustworthy by reaching out to [[Lode]].
 
-That night, the group camps in a small cave with the desecrated grave of a dragonborn adventurer named Ccelic. They are suspicious of a foul-smelling tunnel next to their own. That night, their fears are proven true, as a manticore returns to roost and attacks them after detecting their scent.
+That night, the group camps in a small cave with the desecrated grave of a dragonborn adventurer named Ccelec. They are suspicious of a foul-smelling tunnel next to their own. That night, their fears are proven true, as a manticore returns to roost and attacks them after detecting their scent.
 
 Mercy's *Insectoid* form disables the manticore, setting Jenette up for a killing blow. Searching the cave, Lode finds the [[Magic Item|magic rapier]] [[Indecision]], once belonging to the dead dragonborn next door.
 
