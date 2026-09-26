@@ -43,7 +43,7 @@ At the end of that year, Taeko and Jerej began work on what they dubbed [[Projec
 
 After a couple of early prototypes that served as a mechanical proof of concept, the Vostoks began to see potential in the project far beyond the creation of weapons. The pair invited [[Anasta Wulfhild]] to join the project to develop a language by which the constructs could be given identity.
 
-Once this news reached the Emperor's court, [[Lusio Noven-Hai|Lord Noven]] accused the Vostoks of abandoning their mission and selling out the Emperor's secrets to an outsider. As punishment, he dispatched a force to take Castle Vosgar and arrest all three engineers.
+Once this news reached the Emperor's court, [[Pettre Noven|Lord Noven]] accused the Vostoks of abandoning their mission and selling out the Emperor's secrets to an outsider. As punishment, he dispatched a force to take Castle Vosgar and arrest all three engineers.
 
 Count Jerej held off the attackers, but was captured. Taeko and Anasta were able to escape with their most recent prototype. The two decided to part ways for safety. Anasta would search for new collaborators, while Taeko proposed to collect the funds and precious metals the project would need to continue.
 ### The Stormrider Gang
