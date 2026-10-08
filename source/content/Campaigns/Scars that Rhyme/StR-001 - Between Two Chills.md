@@ -5,6 +5,7 @@
 > Players present -> A/E/L/M
 > Start date -> 6th Crownsday of Autumn, 3438
 > Locations -> [[Irrom Calisei]]
+> Next Session -> [[StR-002 - Sneeze|Sneeze]]
  
 After having escaped from their [[White Bank Heist|heist]] on the [[White Bank]], [[Unnamed StR Party|four adventurers]] arrive at the small village of [[Irrom Calisei]], in the shadow of [[Mount Jeong-Yo]].
 

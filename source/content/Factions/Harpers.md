@@ -57,15 +57,18 @@ The Harpers are a fairly tight-knit group. While they will on occasion have to c
 * [[Beth of Little Unring|Blackstone Beth]]
 * [[Brinda Graeglass]] (Chief Dispatcher)
 * [[Renoer Dreccennoc|Dreccenoc the Blaze]]
+* [[Flaakia]]
 * [[The Fuum]]
 * [[Githrig d'Aaruun]]
-* [[Herikos|Herikos the Sun Singer]]
+* [[Herikos|Herikos the Sun Singer]] (Researcher)
 * [[Jalemey Turrokh]]
+* [[Jo Parsley]] (Researcher)
 * [[Kriev-Lev Dardassos]]
+* [[Maximilan Rudorof]]
 * [[Nero Incari]]
 * [[Orthris|Thris, the Horizon Inverse]]
 * [[Qaoatcazatl|Qao the Elementalist]]
-* [[Quaal]]
+* [[Quaal]] (Researcher)
 * [[Quentyn Yerrian]] (High Harper)
 * [[Rega Anganott]]
 * [[Rhea Istaros]]
@@ -73,7 +76,7 @@ The Harpers are a fairly tight-knit group. While they will on occasion have to c
 * [[Sh'kaa]]
 * [[Chorus]]
 * [[Tyruki]]
-* [[Vein]]
+* [[Vein]] (Scout)
 * [[X the Mystic]] (Scout)
 * [[Zanti Patrachia|Zanti the Bullet]]
 ### Former members
