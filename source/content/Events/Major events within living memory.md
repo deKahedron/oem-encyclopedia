@@ -36,4 +36,4 @@ Depending on the age and location of a given character, it can be assumed that t
 	* The Six Liches take over the [[University of Arcaxius]].
 	* The *Sending* spell is discovered.
 * Around 700 years ago
-	* [[Hel-Dhao]] lights the [[Eternal Ember]] and founds [[Newhearth]].
+	* [[Hel-Dhao]] lights the [[Newhearth#Eternal Ember|Eternal Ember]] and founds [[Newhearth]].

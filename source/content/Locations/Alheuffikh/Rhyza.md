@@ -8,6 +8,7 @@ Rhyza is the largest city in [[Alheuffikh]] and the cultural centre of the [[Elf
 > Founded -> 13th century
 > Main languages -> [[Elvish]]
 > Demonym -> Rhyzan
+> Population -> 180.000
 > Predominant species -> [[Elf#High Elf|High elf]], [[Goblin|goblin]], [[Human|humans]]
 > Government -> Aristocratic democracy
 > Current ruler -> Nine Viziers

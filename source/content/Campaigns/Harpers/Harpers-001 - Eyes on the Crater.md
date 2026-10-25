@@ -10,7 +10,7 @@ We need heroes today, not legends.
 > Session # -> 001
 > Players present -> M/Ps
 > Adventurers present -> [[Maximilan Rudorof]], [[Flaakia]]
-> Start date -> 7th Goldsday of Autumn, 3438
+> Start date -> 8th Widsday of Autumn, 3438
 > Locations -> [[Iacça]]
 > Next Session -> 
 ### Debrief

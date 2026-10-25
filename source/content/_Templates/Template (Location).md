@@ -9,6 +9,7 @@ Text
 > Capital -> 
 > Main languages -> 
 > Demonym -> 
+> Population -> ###
 > Predominant species -> 
 > Government -> Monarchy/Democracy/Theocracy/etc.
 > Current ruler -> [[Template (Character)]]

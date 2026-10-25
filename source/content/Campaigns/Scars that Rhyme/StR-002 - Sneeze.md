@@ -6,7 +6,7 @@
 > Start date -> 6th Bloodsday of Autumn, 3438
 > Locations -> [[Mount Jeong-Yo]]
 > Prev. Session -> [[StR-001 - Between Two Chills|Between Two Chills]]
-> Next Session -> 
+> Next Session -> [[StR-003 - Thaw|Thaw]]
  
 As [[Unnamed StR Party|the adventurers]] begin to trek [[Mount Jeong-Yo#Pariah's Climb|Pariah's Climb]], [[Kridix Thundersoul|Kridix]] takes note of the inscription at the start of the path, relaying only the general meaning to his companions.
 

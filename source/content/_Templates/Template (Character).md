@@ -1,4 +1,3 @@
-Text
 > [!infobox] Name
 > ![](https://obsidian.md/images/2023-06-logo.png)
 > 
