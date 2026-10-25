@@ -1,7 +1,7 @@
 Fizz was an outlaw and a member of the [[Stormrider Gang]].
 > [!infobox] Fizz
 > ![](https://lh3.googleusercontent.com/d/1m0wz9yQKEgRLdGDBkL2BkCWldpWjhBot)
-> 
+> [Full miniature](https://www.heroforge.com/load_config%3D40029941/)
 > 
 > Species -> [[Kenku]]
 > Born -> 3400, [[Hiamyth]]

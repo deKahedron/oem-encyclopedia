@@ -1,7 +1,7 @@
 Brinda Graeglass is an adventurer and the current chief dispatcher of the [[Harpers]] Guild.
 > [!infobox] Brinda Graeglass
 > ![](https://lh3.googleusercontent.com/d/1KAcDYC5t_EoV6zXwqtG8Kgpf9gtJpy4n)
-> 
+> [Full miniature](https://www.heroforge.com/load_config%3D48330038/)
 > 
 > Species -> [[Aasimar]] ([[Halfling]] heritage)
 > Born -> 3393, [[Chelió]]

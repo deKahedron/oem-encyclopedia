@@ -1,7 +1,7 @@
 Danja is an outlaw and a member of the [[Stormrider Gang]].
 > [!infobox] Danja
 > ![](https://lh3.googleusercontent.com/d/1G3UmgCuShrhgZ9J5mkBda44C0AIYmUuX)
-> 
+> [Full miniature](https://www.heroforge.com/load_config%3D40018039/)
 > 
 > Species -> [[Human]]
 > Ethnicity -> [[Human#Damaran|Damaran]]

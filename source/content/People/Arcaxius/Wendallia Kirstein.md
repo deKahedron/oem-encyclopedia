@@ -1,7 +1,7 @@
 Wendallia Kirstein, known mainly as The Salvation, was one of the [[The Six Liches|Six Liches]] of [[Arcaxius]]. Before the [[The Six Liches#The Withering|Withering]], she was a professor at the University and held the position of Archmage of [[Onomancy]].
 > [!infobox] Wendallia Kirstein
 > ![](https://lh3.googleusercontent.com/d/1udsNgJP7Xn8msU0mWM8yjQoqE2v_6q3y)
-> 
+> [Full miniature](https://www.heroforge.com/load_config%3D39347085/)
 > 
 > Species -> [[Elf#Wood Elf|Wood Elf]] ([[Lich|lich]])
 > Born -> 2229, [[Hiamyth]]

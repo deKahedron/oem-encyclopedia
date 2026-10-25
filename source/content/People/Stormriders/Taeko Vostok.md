@@ -1,8 +1,9 @@
 Taeko Vostok is a [[Wizard|wizard]] and metallurgist and one of the main minds behind [[Project Golden Blood]] and the creation of the [[Indentured]].
 > [!infobox] Taeko Vostok
-> ![](https://lh3.googleusercontent.com/d/1f7cll6ryh1mq0ExPU1uv2DLkmBMKBhEg)
 > ![](https://lh3.googleusercontent.com/d/1d4tHoZEdcGmC7jo9tj3pwjlAPyCQmarJ)
-> ![](https://lh3.googleusercontent.com/d/1FApkolfGyyWv1p3ebHt01z6kznWONml5)
+> [Full miniature (Noblewoman)](https://www.heroforge.com/load_config%3D39987570/)
+> [Full miniature (Stormrider)](https://www.heroforge.com/load_config%3D43968257/)
+> [Full miniature (Post-The End of Magic)](https://www.heroforge.com/load_config%3D50754553/)
 > 
 > Species -> [[Dwarf]]
 > Born -> 3381, [[Castle Vosgar]]

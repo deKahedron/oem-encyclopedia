@@ -1,7 +1,7 @@
 Text
 > [!infobox] Maeve
 > ![](https://lh3.googleusercontent.com/d/1ZWlY_cKsDnTiuObgBIHJyYIwLmNjQf-s)
-> 
+> [Full miniature](https://www.heroforge.com/load_config%3D34339794/)
 > 
 > Species -> [[Indentured]]
 > -> Porcelain doll (as Maeve/Dowe)

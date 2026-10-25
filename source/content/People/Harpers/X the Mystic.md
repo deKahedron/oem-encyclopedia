@@ -1,7 +1,7 @@
 X the Mystic is an experienced dungeoneer and veteran scout of the [[Harpers]].
 > [!infobox] X the Mystic
 > ![](https://lh3.googleusercontent.com/d/182kLT4YedDV7KRfY9yfsQ5CBx_rWz3ps)
-> 
+> [Full miniature](https://www.heroforge.com/load_config%3D49602403/)
 > 
 > Species -> Unclear
 > Born -> Before 3400

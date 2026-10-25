@@ -1,7 +1,7 @@
 Waive Barin is an outlaw and founder and former leader of the [[Stormrider Gang]].
 > [!infobox] Waive Barin
 > ![](https://lh3.googleusercontent.com/d/1ve0nYoh9VaGq1sdTC9QnhPzrRM3WXs1d)
-> 
+> [Full miniature](https://www.heroforge.com/load_config%3D40027972/)
 > 
 > Species -> [[Human]]
 > Ethnicity -> [[Human#Damaran|Damaran]]

@@ -1,7 +1,7 @@
 Becko is an outlaw and a member of the [[Stormrider Gang]].
 > [!infobox] Becko
 > ![](https://lh3.googleusercontent.com/d/1BpXyf0MOK4IiUeXd8Y0MATlVliSFsAkb)
-> 
+> [Full miniature](https://www.heroforge.com/load_config%3D46617174/)
 > 
 > Species -> [[Tiefling]] ([[Human]] heritage)
 > Born -> 3394, [[Highgale]]

@@ -1,7 +1,7 @@
 Hao-Len is an outlaw and a member of the [[Stormrider Gang]].
 > [!infobox] Hao-Len
 > ![](https://lh3.googleusercontent.com/d/1o6z80H9nedVyHPNFRT2WjV5qWfQJZKQV)
-> 
+> [Full miniature](https://www.heroforge.com/load_config%3D40017257/)
 > 
 > Species -> [[Human]]
 > Ethnicity -> [[Human#Shou|Shou]]

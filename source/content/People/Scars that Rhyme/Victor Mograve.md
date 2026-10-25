@@ -1,7 +1,8 @@
 Victor Mograve is a halfling antiques dealer based in [[Newhearth]].
 > [!infobox] Victor Mograve
 > ![](https://lh3.googleusercontent.com/d/1LpIaTigpdvFYaUTb6G-2FitSctDdK64T)
-> 
+> [Full miniature](https://www.heroforge.com/load_config%3D59321426/
+> )
 > Species -> [[Halfling]]
 > Pronouns -> He/him
 > Occupation -> Antiques dealer

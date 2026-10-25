@@ -1,7 +1,7 @@
 Zhie is a priestess of [[Bahamut]], an outlaw and a member of the [[Stormrider Gang]].
 > [!infobox] Zhie-Lai
 > ![](https://lh3.googleusercontent.com/d/1JTipNg2k5SGsKjx8IYNykAchqm2gRr88)
-> 
+> [Full miniature](https://www.heroforge.com/load_config%3D40019745/)
 > 
 > Species -> [[Human]]
 > Ethnicity -> [[Human#Shou|Shou]]

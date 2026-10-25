@@ -1,8 +1,8 @@
 Anya Orváes is an adventurer and the current quartermaster of the [[Harpers]] Guild.
 > [!infobox] Anya Orváes
 > ![](https://lh3.googleusercontent.com/d/1LEwBAYiJ2qpY0Sfqd1_Dcr7AZEwYrALp)
-> 
-> 
+> [Full miniature](https://www.heroforge.com/load_config%3D48797986/)
+>
 > Species -> [[Tiefling]] ([[Half-Elf]] heritage)
 > Ethnicity -> Damaran
 > Born -> 3386, [[Paramare]]

@@ -1,8 +1,8 @@
 The Nameless Namer, formerly Abakim, was a powerful [[Onomancy|onomancer]] who played a key role in the destruction of the [[The Six Liches|Six Liches]] of [[Arcaxius]].
 > [!infobox] The Nameless Namer
 > ![](https://lh3.googleusercontent.com/d/1XAKIfMIVNs7UoWSCiD0H_skqccV_FR1b)
-> ![](https://lh3.googleusercontent.com/d/1TWE9Boc9lPUQOUexZ4bf1Y2IoZ-uQ7z_)
-> 
+> [Full miniature](https://www.heroforge.com/load_config%3D43103679/)
+> [Full miniature (face)](https://www.heroforge.com/load_config%3D42670584/)
 > 
 > Species -> [[Elf#Eladrin|Eladrin]] ([[Lich|lich]])
 > Born -> 2729, [[Lfaeria Desert]]

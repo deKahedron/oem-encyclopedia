@@ -1,7 +1,7 @@
 Epidma "Eppy" Hopstilts is an adventurer and member of the [[Harpers]] guild.
 > [!infobox] Epidma Hopstilts
 > ![](https://lh3.googleusercontent.com/d/1ZnItLvoieeYJiHhEgsmAlZmKR8Bw32I2)
-> 
+> [Full miniature](https://www.heroforge.com/load_config%3D59864053/)
 > 
 > Species -> [[Gnome#Rock Gnome|Rock Gnome]]
 > Born -> 3402, [[The Fumes]]

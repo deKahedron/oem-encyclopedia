@@ -1,7 +1,7 @@
 Val was an outlaw and a member of the [[Stormrider Gang]].
 > [!infobox] Val
 > ![](https://lh3.googleusercontent.com/d/1oKwaRzjw8WpzrgrPNY-ab7Ekwp6aJK3J)
-> 
+> [Full miniature](https://www.heroforge.com/load_config%3D40030205/)
 > 
 > Species -> [[Dwarf]]
 > Born -> 3264, [[Dûnar]]

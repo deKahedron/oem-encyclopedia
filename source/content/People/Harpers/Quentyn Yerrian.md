@@ -1,7 +1,7 @@
 Quentyn "Drakkenhide" Yerrian is the 22nd and current leader of the [[Harpers]]. 
 > [!infobox] Quentyn Yerrian
 > ![](https://lh3.googleusercontent.com/d/1HV4KItHpG01JKm0G9AptYjuQFZbwMWnf)
-> 
+> [Full miniature](https://www.heroforge.com/load_config%3D48367252/)
 > 
 > Species -> [[Hobgoblin]]
 > Ethnicity -> Siika

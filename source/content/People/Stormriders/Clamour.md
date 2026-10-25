@@ -1,7 +1,7 @@
 Clamour is an adventurer, revolutionary and former member of the [[Stormrider Gang]].
 > [!infobox] Clamour
 > ![](https://lh3.googleusercontent.com/d/1iqKJ-XNbTXwCEc96KEb4-My9DyHp0b0t)
-> 
+> [Full miniature](https://www.heroforge.com/load_config%3D57342809/)
 > 
 > Species -> [[Tiefling]] ([[Human]] heritage)
 > Born -> 3401, [[Highgale]]

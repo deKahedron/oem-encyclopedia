@@ -1,6 +1,8 @@
 Andrej Rusakov, The Truth, was one of the [[The Six Liches|Six Liches]] of [[Arcaxius]]. Before the [[The Six Liches#The Withering|Withering]], he was a professor at the University and held the position of Archmage of Divination.
 > [!infobox] Andrej Rusakov
 > ![](https://lh3.googleusercontent.com/d/1Vt4sySmtEoAX4Klij7eiS7b5yvzNGlAT)
+> [Full miniature (human)](https://www.heroforge.com/load_config%3D45224763/)
+> [Full miniature (lich)](https://www.heroforge.com/load_config%3D47050440/)
 > Species -> [[Human]] ([[Lich|lich]])
 > Ethnicity -> [[Human#Damaran|Damaran]]
 > Born -> 2862, [[Dobruje]]

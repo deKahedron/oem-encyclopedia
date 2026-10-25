@@ -1,6 +1,6 @@
 > [!infobox] Name
 > ![](https://obsidian.md/images/2023-06-logo.png)
-> 
+> [Full miniature](https://www.heroforge.com)
 > 
 > Species -> [[Template (Species)|Species]]
 > Ethnicity -> Ethnicity

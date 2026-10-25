@@ -1,7 +1,7 @@
 Yurtris Fenbryte, The Plenty, was one of the [[The Six Liches|Six Liches]] of [[Arcaxius]] and the head of Fenbryte Industries. Before the [[The Six Liches#The Withering|Withering]], she was a professor at the University and held the position of Archmage of Artificery.
 > [!infobox] Yurtris Fenbryte
 > ![](https://lh3.googleusercontent.com/d/1Dv-VCZ6uMBsCYRV5IRYRgPKz8GYf6d5C)
-> 
+> [Full miniature](https://www.heroforge.com/load_config%3D41955832/)
 > 
 > Species -> [[Gnome#Rock Gnome|Rock Gnome]] ([[Lich|lich]])
 > Born -> 2613, [[Nadiria]]
