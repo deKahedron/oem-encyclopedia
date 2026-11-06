@@ -17,4 +17,6 @@ Text
 > 
 > // Appearances
 > Campaign/Story
+> // Ambient theme
+> Song name
 ### First section

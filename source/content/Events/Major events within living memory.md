@@ -4,19 +4,19 @@ Depending on the age and location of a given character, it can be assumed that t
 
 * Within the last decade
 	* [[The Hunger War]]
-	* [[Minotaur|Minotaurs]] and [[Gnoll|gnolls]] stopped being unquestionably violent monsters.
-	* [[The Six Liches]] of [[Arcaxius]] were struck down and succeeded by the [[Twin Kings]].
+	* [[Minotaur|Minotaurs]] and [[Gnoll|gnolls]] stop being unquestionably violent monsters.
+	* [[The Six Liches]] of [[Arcaxius]] are struck down and succeeded by the [[Twin Kings]].
 	* The [[The Broken Minute|destruction of the minute]].
 	* The [[Indentured]] are born.
 	* The [[Fuegil & the Manilands|Manilands]] are devastated by [[The Draymorites|Draymorite]] cultists.
 * Around 20 years ago
-	* The first firearms began circulating.
+	* The first firearms begin circulating.
 	* [[Fuegil & the Manilands|The Manilands]] begin using the metric system.
 	* Invention of the *Chest of Preserving*.
 * Around 30 years ago
 	* The [[Tungertine|Buried Wyrm]] kills thousands in the [[Underdark]] beneath [[Dûnar]].
 * Around 70 years ago
-	* The Manilands were formed
+	* The Manilands are formed
 * Around 100 years ago
 	* First sightings of the [[Chalican|chalicans]] and the [[Nadiria#The Great Humbling|fall of Nadiria]].
 * Around 120 years ago

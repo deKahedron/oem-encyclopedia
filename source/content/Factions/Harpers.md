@@ -24,7 +24,7 @@ The name Harpers was chosen in honour of [[Lineeckah|Lineeckah's]] epithet, part
 ### Political involvement
 Within the first years of their activity, the Harpers were involved in helping organise the riots that led to the overthrowing of the county of Bathannot and the creation of the pseudo-democratic barony in its place.
 
-In response to many other nobles placing pressure on the guild to assist them in their own power struggles, High Harper [[Claravela Sixpins]] moved the headquarters to the small mountain village of [[Newhearth]], in the [[Guong Range]]. This in itself was considered a charged decision, as Newhearth was founded by Hel-Dhao.
+In response to many other nobles placing pressure on the guild to assist them in their own power struggles, in 3263, High Harper [[Claravela Sixpins]] moved the headquarters to the small mountain village of [[Newhearth]], in the [[Guong Range]]. This in itself was considered a controversial decision, as Newhearth was founded by the religious figure Hel-Dhao.
 
 Since then, the Harpers' official stance is that they do not select contracts based on political affiliation. While their members are free to fight in any conflict they wish, the guild will not assign jobs against regional governments nor against their citizens.
 ### Responsibilities and protections
@@ -56,6 +56,7 @@ The Harpers are a fairly tight-knit group. While they will on occasion have to c
 * [[Anya Orváes]] (Quartermaster)
 * [[Beth of Little Unring|Blackstone Beth]]
 * [[Brinda Graeglass]] (Chief Dispatcher)
+* [[Bugo of Hallum]]
 * [[Renoer Dreccennoc|Dreccenoc the Blaze]]
 * [[Flaakia]]
 * [[The Fuum]]
@@ -63,17 +64,14 @@ The Harpers are a fairly tight-knit group. While they will on occasion have to c
 * [[Herikos|Herikos the Sun Singer]] (Researcher)
 * [[Jalemey Turrokh]]
 * [[Jo Parsley]] (Researcher)
-* [[Kriev-Lev Dardassos]]
+* [[Krien-Lev Dardassos]]
 * [[Maximilan Rudorof]]
 * [[Nero Incari]]
-* [[Orthris|Thris, the Horizon Inverse]]
 * [[Qaoatcazatl|Qao the Elementalist]]
-* [[Quaal]] (Researcher)
+* [[Quaal]] (Outfitter)
 * [[Quentyn Yerrian]] (High Harper)
 * [[Rega Anganott]]
 * [[Rhea Istaros]]
-* [[Selkan|Selk, the Sentinel Below]]
-* [[Sh'kaa]]
 * [[Chorus]]
 * [[Tyruki]]
 * [[Vein]] (Scout)
@@ -81,7 +79,6 @@ The Harpers are a fairly tight-knit group. While they will on occasion have to c
 * [[Zanti Patrachia|Zanti the Bullet]]
 ### Former members
 * [[Alvar Setilgert|Alvar the Blue]]
-* [[Bugo of Hallum]]
 * [[Claravela Sixpins]]
 * [[Colommo Saivatri]]
 * [[Dengo of the Kiatan]]
@@ -93,6 +90,7 @@ The Harpers are a fairly tight-knit group. While they will on occasion have to c
 * [[Olga Zamazeera]]
 * [[Ruark Emblethorn|Ruark the Fabulous]]
 * [[Sammikay Rooker|Sir Sammikay Rooker]]
+* [[Sh'kaa]]
 * [[Vell]]
 * [[Yuna Ko'varr|Joen Yuna Ko'varr]]
 * [[Zuthrin Creccamalis|Zuthrin Hellbound]]

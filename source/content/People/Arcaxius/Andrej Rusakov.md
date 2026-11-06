@@ -10,7 +10,6 @@ Andrej Rusakov, The Truth, was one of the [[The Six Liches|Six Liches]] of [[Arc
 >  -> 3435, Arcaxius (final death)
 > Pronouns -> He/him
 > Status -> Dead
-> 
 > Languages ->  [[Mythian]], [[Elvish]], [[Giant (Language)]]
 > Alias -> The Truth (epithet)
 > -> Archmage of Divination

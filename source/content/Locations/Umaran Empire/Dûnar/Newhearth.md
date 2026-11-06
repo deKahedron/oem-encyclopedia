@@ -16,6 +16,8 @@ Newhearth is a town at the peak of [[Mount Jeong-Yo]]. It houses the headquarter
 > // Appearances
 > [[Kriv & Friends (campaign)|Kriv & Friends]]
 > [[Scars that Rhyme]]
+> // Ambient theme
+> Songclave
 ### Founding
 Newhearth was founded [[Hel-Dhao]] and the [[Platinum Pariahs]] in 2792, at the end of their long exodus from northern [[Hiamyth]]. According to legend, once they reached the top of Mount Jeong-Yo, Hel-Dhao plunged her sword into the ground, lighting a great bonfire that enveloped the peak of the mountain in warmth without harming any of her people. This fire, which still burns today, is known as the Eternal Ember.
 

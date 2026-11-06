@@ -6,7 +6,7 @@
 > Start date -> 6th Holdsday of Autumn, 3438
 > Locations -> [[Mount Jeong-Yo]], [[Newhearth]]
 > Prev. Session -> [[StR-002 - Sneeze|Sneeze]]
-> Next Session -> 
+> Next Session -> [[StR-004 - Research & Relaxation|Research & Relaxation]]
  
 [[Kridix Thundersoul|Kridix]] and [[Jenette Meirim|Jenette]] find themselves on the safe side of an ice shelf as the avalanche rolls near, but [[Lode]] and [[Mercy]] remain behind. Lode is able to leap across, helped up by the others. Mercy struggles on the jump, falling down. Kridix pins her to the cliffside with a magical bolt, long enough for Lode to extend her a rope.
 

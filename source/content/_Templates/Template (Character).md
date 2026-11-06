@@ -1,3 +1,4 @@
+
 > [!infobox] Name
 > ![](https://obsidian.md/images/2023-06-logo.png)
 > [Full miniature](https://www.heroforge.com)
@@ -8,8 +9,7 @@
 > Died -> YYYY, Location
 > Pronouns -> -/-
 > Occupation -> Job
-> Status -> Alive/Dead/Other
-> 
+> Status -> Alive/Dead/Other 
 > Languages -> Language 1, Language 2
 > Alias -> Nickname (by Character(s) who call them that)
 > Titles -> Title 
