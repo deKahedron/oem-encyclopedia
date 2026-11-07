@@ -1,5 +1,5 @@
 ##### *Ley*
-Lagu is a board game invented by the [[Giant|giants]] in which two players take turns moving pieces across a chequered board. The rules are identical to real-world chess, though the historical origin is different.
+Lawe is a board game invented by the [[Giant|giants]] in which two players take turns moving pieces across a chequered board. The rules are identical to real-world chess, though the historical origin is different.
 
 The aim of the game is to capture the opponent's Paragon. 
 ### Pieces
