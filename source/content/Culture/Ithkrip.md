@@ -1,0 +1,1 @@
+Ithkirp is a dish from the [[Court of Silk]]. It is made with a soft, spongey root vegetable soaked in strong a tea stew and then seared on a hot pan. The end result is a dumpling-sized sweet or savoury snack with a crunchy outside and a gooey inside.

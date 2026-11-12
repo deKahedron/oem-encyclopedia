@@ -8,4 +8,5 @@ This page lists all of the known magical materials in Oem.
 * [[Dawnweave]]
 * [[Duskweave]]
 * [[Enactine]]
+* [[Sallihhka]]
 * [[Residuum]]

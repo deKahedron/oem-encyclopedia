@@ -6,7 +6,7 @@ The Harpers are a guild of adventurers that operate all across Oem. They special
 > Type -> Adventurers' Guild
 > Status -> Active
 > Years active -> 3251-present
-> Headquarters -> [[Newhearth]]
+> Headquarters -> [[Tower of Sheathed Blades]]
 > Founders -> [[Claravela Sixpins]], [[Colommo Saivatri]], [[Sammikay Rooker|Sir Sammikay Rooker]]
 > Leader -> [[Quentyn Yerrian]]
 >
@@ -50,14 +50,18 @@ The guild has several key positions within its leadership:
 * Dispatchers. Specialised conjurers who transport the field agents to and from their most urgent assignments.
 ### Adventuring parties
 Harpers can enlist as a named party, a group of adventurers who are allowed to refuse an assignment unless they are all sent together.
+### The Kindler's Ten
+##### *Diez para la Hoguera*
+The Harpers keep an updated list of the 10 most valuable bounty targets across the continent. Each entry on the list is written on a wooden plank, and displayed in order on a rack in the main hall of the [[Tower of Sheathed Blades]]. When one of the bounties is claimed, it is tradition for the claimants to take the plank and burn it in the great hearth at the [[Two-Score Strings]], buying drinks for all the Harpers for a night.
 ### Relationships with other organisations
 The Harpers are a fairly tight-knit group. While they will on occasion have to collaborate with other adventuring groups (such as the [[Imperial Rangers]] or the [[Blood Hunters]] orders), it is something the Harper leadership tends to avoid where possible.
 ### Active members
 * [[Anya Orváes]] (Quartermaster)
 * [[Beth of Little Unring|Blackstone Beth]]
 * [[Brinda Graeglass]] (Chief Dispatcher)
-* [[Bugo of Hallum]]
+* [[Byugo of Hallum]]
 * [[Renoer Dreccennoc|Dreccenoc the Blaze]]
+* [[Epidma Hopstilts|Eppy Hopstilts]]
 * [[Flaakia]]
 * [[The Fuum]]
 * [[Githrig d'Aaruun]]
@@ -65,7 +69,9 @@ The Harpers are a fairly tight-knit group. While they will on occasion have to c
 * [[Jalemey Turrokh]]
 * [[Jo Parsley]] (Researcher)
 * [[Krien-Lev Dardassos]]
+* [[Lode]]
 * [[Maximilan Rudorof]]
+* [[Mercy]]
 * [[Nero Incari]]
 * [[Qaoatcazatl|Qao the Elementalist]]
 * [[Quaal]] (Outfitter)

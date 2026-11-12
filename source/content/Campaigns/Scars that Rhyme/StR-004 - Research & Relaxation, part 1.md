@@ -1,4 +1,4 @@
-> [!infobox] Research & Relaxation
+> [!infobox] Research & Relaxation, part 1
 > 
 > Campaign -> [[Scars that Rhyme]]
 > Session # -> 004
@@ -6,7 +6,7 @@
 > Start date -> 7th Goldsday of Autumn, 3438
 > Locations -> [[Newhearth]]
 > Prev. Session -> [[StR-003 - Thaw|Thaw]]
-> Next Session -> 
+> Next Session -> [[StR-005 - Research & Relaxation, part 2|Research & Relaxation, part 2]]
  
 After the bankers leave, [[Kridix Thundersoul|Kridix]] and [[Jenette Meirim|Jenette]] help [[Ormus Cassic]] tidy up his shop. In the process, Jenette snoops on some of [[Victor Mograve|Victor Mograve's]] open research. She finds that he has been compiling disparate fragments and rumours of prophecies. In particular, Mograve has been studying various different languages foretelling of some sort of "Master of Dragons". The different interpretations use different words with very different connotations, from "Master" to "Rider" to "Leader".
 Additionally, she identifies a bookmarked tome by [[Wanda Humbolt]], recounting the murder of [[Joesyph Rooker]].

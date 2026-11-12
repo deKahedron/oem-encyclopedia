@@ -1,4 +1,4 @@
-Rega Anganott is an outfitter for the adventurers of the [[Harpers]] guild.
+Quaal is an outfitter for the adventurers of the [[Harpers]] guild.
 > [!infobox] Quaal
 > ![](https://lh3.googleusercontent.com/d/1xemx_hkK550P_lRe2Z2IC1Tqyp4ha12s)
 > [Full miniature](https://www.heroforge.com/load_config%3D51111914/)
@@ -11,7 +11,7 @@ Rega Anganott is an outfitter for the adventurers of the [[Harpers]] guild.
 > Languages -> [[Elvish]], [[Auran]], [[Gnomish]], [[Mythian]]
 > 
 > Relationships -> [[Krien-Lev Dardassos]] (one-sided rivalry)
->Affiliations -> [[Harpers]]
+> Affiliations -> [[Harpers]]
 > 
 > // Appearances
 > [[Scars that Rhyme]] (NPC)

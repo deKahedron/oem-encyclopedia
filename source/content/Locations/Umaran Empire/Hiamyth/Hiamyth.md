@@ -26,6 +26,7 @@ Hiamyth is the easternmost province in the [[Umaran Empire]]. It spans the land 
 * [[Highgale]]
 * [[Juggerwall]]
 * [[Kavasté]]
+* [[Nith Tragaan]]
 * [[Paramare]]
 * [[Stambotza]]
 * [[Stormcross]]

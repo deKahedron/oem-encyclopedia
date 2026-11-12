@@ -1,0 +1,3 @@
+The Pantheon is a district in [[Newhearth]] filled with effigies, shrines and temples dedicated to every major religion in [[Oem]].
+
+The oldest shrine in the Pantheon is dedicated to the [[Dragon|dragon]] [[Divine Magic#Gods|god]] [[Bahamut]]. The others began to spring around him after the [[Harpers]] relocated to Newhearth, bringing the demand for other figures of worship into what had once been a holy pilgrimage site for the Platinum Dragon.

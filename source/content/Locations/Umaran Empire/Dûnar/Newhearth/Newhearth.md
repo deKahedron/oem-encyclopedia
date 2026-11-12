@@ -36,5 +36,6 @@ Stepping within the town's threshold immediately fills one with warmth, contrast
 1. [[Tower of Sheathed Blades]]
 2. [[Pantheon (Newhearth)|The Pantheon]]
 3. [[Two-Score Strings]]
-4. [[Cassic and Mograve's Trove of Antiquities]]
-5. [[Hel-Dhao's Grave]]
+4. [[The Cloudy Mattress]]
+5. [[Cassic and Mograve's Trove of Antiquities]]
+6. [[Hel-Dhao's Grave]]

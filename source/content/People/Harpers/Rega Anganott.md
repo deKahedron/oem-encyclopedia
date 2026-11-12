@@ -12,7 +12,7 @@ Rega Anganott is an adventurer of the [[Candleguard]] and member of the [[Harper
 > 
 > Relationships -> [[Krien-Lev Dardassos]] (close friend)
 > -> [[Jalemey Turrokh]] (friend)
->Affiliations -> [[Candleguard|The Candleguard]]
+> Affiliations -> [[Candleguard|The Candleguard]]
 >-> [[Harpers]]
 > 
 > // Appearances
