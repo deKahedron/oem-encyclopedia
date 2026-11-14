@@ -18,6 +18,8 @@ Rhea Istaros is an adventurer of the [[Harpers]] guild and former leader of the 
 > // Appearances
 > [[Scars that Rhyme]] (NPC)
 ### Life
-Rhea led the Pillars of Summer for four years. Towards the end of this time, she encountered an otherworldly horror, the sight of which scarred her eyes forever. She has never spoken about the creature she saw. When [[Cadra of the Aragnaeon]] died and [[Herikos]] was cursed, the Pillars fully disbanded. With her old party out of commission, she never found another that suited her well.
+Rhea led the Pillars of Summer for four years. Towards the end of this time, she encountered an otherworldly horror, the sight of which scarred her eyes forever. She has never spoken about the creature she saw.
+
+When [[Cadra of the Aragnaeon]] died and [[Herikos]] was cursed, the Pillars fully disbanded. With her old party out of commission, she never found another that suited her well.
 
 Since then, she has served as a mentor for rookie Harpers and occasionally joining assignments that were short a extra spear.
